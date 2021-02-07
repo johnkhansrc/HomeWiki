@@ -118,3 +118,13 @@ nano /var/www/wiki/index.html
 <a href="./info.php">Show conf</a>
 ```
 Great !!!
+Now return in local environnement and initialize symfony
+```bash
+exit
+symfony new --full HomeWiki
+cd HomeWiki
+git remote add origin myGithubRpo
+git push origin master
+```
+
+

@@ -1,2 +1,2 @@
 build-migration:
-	bin/console make:migation
+	bin/console make:migration

@@ -1,2 +1,2 @@
 build-migration:
-	bin/bonsole make:migation
+	bin/console make:migation
